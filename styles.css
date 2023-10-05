@@ -1,0 +1,11 @@
+.studenSection{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-items: center;
+    background: red;
+  
+}
+td{
+    color:rgb(255, 0, 13);
+}
