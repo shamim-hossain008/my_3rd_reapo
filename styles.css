@@ -9,3 +9,8 @@
 td{
     color:rgb(255, 0, 13);
 }
+body{
+    background-color: aqua;
+background-image: url(05.jpg);
+background-repeat: no-repeat;
+}
