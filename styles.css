@@ -14,3 +14,13 @@ body{
 background-image: url(05.jpg);
 background-repeat: no-repeat;
 }
+.p1{
+    border: 5px dotted red; 
+    border-radius:20px;
+}
+#p2{
+    border-width:10px;
+    border-style:dashed;
+    border-color:red;
+
+}
