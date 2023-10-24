@@ -22,5 +22,13 @@ background-repeat: no-repeat;
     border-width:10px;
     border-style:dashed;
     border-color:red;
+}
+.shamim{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    border: 5px solid red ;
+    margin: 50px 70px 80px 90px;
 
 }
+
