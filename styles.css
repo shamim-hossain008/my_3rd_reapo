@@ -17,6 +17,7 @@ background-repeat: no-repeat;
 .p1{
     border: 5px dotted red; 
     border-radius:20px;
+    color:green;
 }
 #p2{
     border-width:10px;
@@ -26,9 +27,20 @@ background-repeat: no-repeat;
 .shamim{
     width: 500px;
     height: 500px;
-    background-color: blue;
+    background-color: white;
     border: 5px solid red ;
     margin: 50px 70px 80px 90px;
+    padding:20px;
+    outline: 10px solid green;
+    outline-offset: 5px;
+}
+.p3{
+    color:red;
+    text-transform: uppercase;
+text-indent: 50px;
+letter-spacing: 5px;
+word-spacing: 15px;
+font-size:20px;
+line-height: 50px;
 
 }
-
