@@ -33,6 +33,8 @@ background-repeat: no-repeat;
     padding:20px;
     outline: 10px solid green;
     outline-offset: 5px;
+    font-style: italic;
+    font-size: 1vw;
 }
 .p3{
     color:red;
@@ -44,3 +46,20 @@ font-size:20px;
 line-height: 50px;
 
 }
+h1{
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.fa-brands{
+    color: blue;
+    font-size: 80px;
+    
+}
+.material-symbols-outlined{
+    color:aliceblue;
+    font-size: 80px;
+    
+}
+
+
