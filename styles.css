@@ -7,7 +7,7 @@
   
 }
 td{
-    color:rgb(255, 0, 13);
+    color:rgb(24, 25, 24);
 }
 body{
     background-color: aqua;
@@ -18,11 +18,20 @@ background-repeat: no-repeat;
     border: 5px dotted red; 
     border-radius:20px;
     color:green;
+    max-width: 800px;
+    font-size:40px;
 }
 #p2{
     border-width:10px;
     border-style:dashed;
     border-color:red;
+}
+.p4{
+    width: 400px;
+    height: 200px;
+    border: 5px solid black;
+    overflow: auto;
+    font-size:30px;
 }
 .shamim{
     width: 500px;
@@ -34,7 +43,7 @@ background-repeat: no-repeat;
     outline: 10px solid green;
     outline-offset: 5px;
     font-style: italic;
-    font-size: 1vw;
+    font-size: .50vw;
 }
 .p3{
     color:red;
@@ -81,11 +90,28 @@ a:visited{
     color:aliceblue;
     background-color: black;
 }
-ui{ 
+ul{ 
     list-style:outside decimal-leading-zero;
     color:red;
-    font-size:50px;
+    font-size:30px;
 }
+.table1{
+    font-size: 250px;
+}
+table,th,td{
+    border:5px solid red;
+    font-size:25px;
+    border-collapse:collapse;
+    
+}
+table{
+    width: 50%;
+ text-align: center;
+}
+
+
+
+
 
 
 
